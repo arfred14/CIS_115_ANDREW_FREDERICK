@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "productID": "78YK29",
+            "unitPrice": 10.00,
+            "quantity": 2
+        },
+        {
+            "productID": "UF890P",
+            "unitPrice": 20.00,
+            "quantity": 5
+        },
+        {
+            "productID": "56NK",
+            "unitPrice": 30.00,
+            "quantity": 1
+        }
+    ],
+    "totals": {
+        "subtotal": 60,
+        "tax": 3.6,
+        "grandTotal": 63.6
+    }
+}

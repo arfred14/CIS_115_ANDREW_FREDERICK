@@ -1,0 +1,7 @@
+{
+    "creditCards": {
+        "cardNumber": 123456789,
+        "expirationDate": "12/25",
+        "cvv": 123
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "items": [
+        { "itemName": "Eggs", "qty": 1, "price": 1.99 },
+        { "itemName": "Milk", "qty": 1, "price": 2.49 },
+        { "itemName": "Bread", "qty": 2, "price": 1.99 },
+        { "itemName": "Cheese", "qty": 1, "price": 3.49 }
+    ]
+}

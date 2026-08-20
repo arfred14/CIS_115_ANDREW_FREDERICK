@@ -1,0 +1,13 @@
+{
+    "totals": {
+        "subtotal": 60,
+        "tax": 3.6,
+        "grandTotal": 63.6
+    },
+    "paymentMethod": "Credit Card",
+    "creditCardInfo": {
+        "cardNumber": 123456789,
+        "expirationDate": "12/25",
+        "cvv": 123
+    }
+}
